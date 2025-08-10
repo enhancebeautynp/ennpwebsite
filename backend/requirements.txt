@@ -1,0 +1,15 @@
+Django>=4.2
+djangorestframework
+mongoengine==0.24.4
+django-mongoengine==0.3.1
+strawberry-graphql==0.104.1
+graphene==3.2.1
+django-cors-headers
+python-dotenv
+PyJWT
+channels==4.0.0
+asgiref
+gunicorn
+pymongo[srv]
+djongo==1.4.1
+python-decouple
